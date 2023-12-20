@@ -1,0 +1,20 @@
+body {
+    background-image: cover;
+}
+
+.myDiv {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.myH1 {
+    font-size: 35px;
+    border-radius: 10px;
+}
+
+canvas {
+    background: white;
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px gray;
+}
